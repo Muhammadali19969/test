@@ -12,3 +12,5 @@ def numSum(n):
 
 def lenStr(s):
     return len(s)
+
+print("Hello World !")
