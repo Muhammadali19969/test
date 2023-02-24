@@ -9,3 +9,6 @@ def numSum(n):
     for i in range(1,n+1):
         m+=i
     return m
+
+def lenStr(s):
+    return len(s)
